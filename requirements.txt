@@ -7,8 +7,8 @@ scikit-learn==1.5.0
 scipy==1.10.1
 soundfile==0.12.1
 # torchvggish==0.2
-tqdm==4.66.3
-transformers==4.53.0
+tqdm
+transformers
 torchlibrosa==0.1.0
 h5py==3.9.0
 torchsummary==1.5.1
